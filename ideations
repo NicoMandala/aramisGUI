@@ -3,3 +3,6 @@ beautiful images
 
 
 Library that contains vector arrow based attitude visualisation: https://github.com/alfonsogonzalez/AWP
+
+
+Go library that visualises 3d orientation:  https://github.com/soypat/tiny-ahrsim | Go can be wrapped in python
