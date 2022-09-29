@@ -5,4 +5,20 @@ beautiful images
 Library that contains vector arrow based attitude visualisation: https://github.com/alfonsogonzalez/AWP
 
 
-Go library that visualises 3d orientation:  https://github.com/soypat/tiny-ahrsim | Go can be wrapped in python
+Go library that visualises 3d orientation:  https://github.com/soypat/tiny-ahrsim | Go can be wrapped in python | 2
+
+
+Realtime Cubesat visulisation https://github.com/komrad36/KPS | contains binary executable file for direct visualisation | 1
+
+Cubesat visualisation in MATLAB https://github.com/cmontalvo251/aerospace/tree/main/adcs_seminar_series
+
+
+Python cubesat visualisation(not sure if in realtime) https://github.com/leocelente/leo-adcs-simulator | visual aesthetics are not good
+
+
+ADCS simulation to check the viability of sensor https://github.com/gavincmartin/adcs-simulation
+
+Few other libraries
+https://github.com/emern/attitude_determination-sims
+https://github.com/hamid-m/NavSimLab/blob/master/navsim_lab_ver_1.0.py
+https://github.com/JonisK/openspace_controller | realtime connection to openspace visualisation tool
