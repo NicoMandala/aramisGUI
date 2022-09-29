@@ -1,0 +1,9 @@
+The software must receive and display the prototype experiment data
+The software must break down the string received by Phoebe
+The software must visualise graphs for three axial data for gyroscope, magnetometer and accelerometer with time
+The software must display temperature, magnetometer, gyroscope and accelerometer data in a readable format
+The software must show the operational information for the satellite
+The software must visually show when the command is received
+
+Electrical
+The software must display battery level
